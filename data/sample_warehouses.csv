@@ -1,0 +1,41 @@
+warehouse_code,name,gstin,address,city,state,pincode,latitude,longitude,digipin,capacity_sqft
+WH-KA-0001,Northstar Logistics Hosur Road DC 1,29QBNJB9313D1ZN,"Plot 20, Industrial Area, Hosur Road",Hosur Road,Karnataka,560100,12.827583,77.625285,4P3-K48-LPCL,25000
+WH-MH-0002,Northstar Logistics Bhiwandi DC 2,27CLVDF2013G1ZW,"Plot 26, Industrial Area, Bhiwandi",Bhiwandi,Maharashtra,421302,19.290065,73.020086,4FK-857-K56J,40000
+WH-MH-0003,Northstar Logistics Chakan DC 3,27HDDIV3961B1ZQ,"Plot 298, Industrial Area, Chakan",Chakan,Maharashtra,410501,18.715258,73.899447,4FP-C6T-F79C,120000
+WH-TN-0004,Northstar Logistics Sriperumbudur DC 4,33OBBFR8005F1ZA,"Plot 239, Industrial Area, Sriperumbudur",Sriperumbudur,Tamil Nadu,602105,12.981391,79.929140,4T3-J7M-3LCM,120000
+WH-GJ-0005,Northstar Logistics Sanand DC 5,24GEUCH9111F1Z3,"Plot 230, Industrial Area, Sanand",Sanand,Gujarat,382110,23.034444,72.367758,J6T-7LL-66CK,60000
+WH-DL-0006,Northstar Logistics Narela DC 6,07NEIYK2271F1ZT,"Plot 175, Industrial Area, Narela",Narela,Delhi,110040,28.863596,77.050220,39J-F4C-2649,60000
+WH-TS-0007,Northstar Logistics Shamshabad DC 7,36LVYMR1994E1ZM,"Plot 296, Industrial Area, Shamshabad",Shamshabad,Telangana,11004,17.249737,78.437390,422-PF7-PFP6,85000
+WH-UP-0008,Northstar Logistics Greater Noida DC 8,09RAMED1965D1ZY,"Plot 148, Industrial Area, Greater Noida",Greater Noida,Uttar Pradesh,201306,28.452860,77.492579,39J-T2L-FK28,40000
+WH-WB-0009,Northstar Logistics Dankuni DC 9,19XMEKH3243G1ZW,"Plot 282, Industrial Area, Dankuni",Dankuni,West Bengal,712311,22.703836,88.282890,2TF-FJ7-288C,60000
+WH-KA-0010,Northstar Logistics Bengaluru DC 10,29RJFCD4822A1Z0,"Plot 249, Industrial Area, Bengaluru",Bengaluru,Karnataka,562123,13.124140,77.637647,33C-635-JK43,120000
+WH-KA-0011,Northstar Logistics Hosur Road DC 11,29DNPID9445A1Z6,"Plot 234, Industrial Area, Hosur Road",Hosur Road,Karnataka,560100,12.813434,77.638393,4P3-K5K-59LP,120000
+WH-MH-0012,Northstar Logistics Bhiwandi DC 12,27CQBBF3659B1ZY,"Plot 175, Industrial Area, Bhiwandi",Bhiwandi,Maharashtra,421302,19.285938,73.052998,4FK-865-8596,120000
+WH-MH-0012,Northstar Logistics Chakan DC 13,27DCJAW7164C1Z1,"Plot 130, Industrial Area, Chakan",Chakan,Maharashtra,410501,18.715858,73.813623,4FP-C44-MTM5,60000
+WH-TN-0014,Northstar Logistics Sriperumbudur DC 14,33CMZMI3361B1Z8,"Plot 176, Industrial Area, Sriperumbudur",Sriperumbudur,Tamil Nadu,602105,12.977728,79.939315,4T3-J7P-M2T4,60000
+WH-GJ-0015,Northstar Logistics Sanand DC 15,24NFYJR1443E1Z8,"Plot 47, Industrial Area, Sanand",Sanand,Gujarat,382110,22.989962,72.400806,J6T-63F-5TC5,60000
+WH-DL-0016,Northstar Logistics Narela DC 16,07JFONQ4197D1ZW,"Plot 206, Industrial Area, Narela",Narela,Delhi,110040,51.5072,-0.1276,39J-F67-JTC8,40000
+WH-TS-0017,Northstar Logistics Shamshabad DC 17,36TZUMF6640H1ZN,"Plot 179, Industrial Area, Shamshabad",Shamshabad,Telangana,501218,17.210292,78.428678,422-PJ5-2F6M,60000
+WH-UP-0018,Northstar Logistics Greater Noida DC 18,09MIMZP1031H1ZE,"Plot 177, Industrial Area, Greater Noida",Greater Noida,Uttar Pradesh,201306,28.432454,77.464216,39J-T4J-7MJ4,25000
+WH-WB-0019,Northstar Logistics Dankuni DC 19,19KSFXL6447B1Z0,"Plot 203, Industrial Area, Dankuni",Dankuni,West Bengal,712311,22.713465,88.255090,2TF-FJF-944F,-500
+WH-KA-0020,Northstar Logistics Bengaluru DC 20,29SEDDX3394H1Z3,"Plot 180, Industrial Area, Bengaluru",Bengaluru,Karnataka,562123,13.093639,77.633680,4P3-F5K-K4P3,40000
+WH-KA-0021,Northstar Logistics Hosur Road DC 21,27AZQNY8107D1ZY,"Plot 109, Industrial Area, Hosur Road",Hosur Road,Karnataka,560100,12.850066,77.623298,4P3-K35-7529,25000
+WH-MH-0022,Northstar Logistics Bhiwandi DC 22,27GPGKD6796H1ZM,"Plot 299, Industrial Area, Bhiwandi",Bhiwandi,Maharashtra,421302,19.271883,73.042397,4FK-86M-5T4P,120000
+WH-MH-0023,Northstar Logistics Chakan DC 23,27NNNAL4000A1Z2,"Plot 77, Industrial Area, Chakan",Chakan,Maharashtra,410501,18.752663,73.905372,4FP-C76-T9M5,40000
+WH-TN-0024,Northstar Logistics Sriperumbudur DC 24,33DBRNM2738A1ZV,"Plot 128, Industrial Area, Sriperumbudur",Sriperumbudur,Tamil Nadu,602105,12.931656,79.953810,4T3-3LJ-F3KT,40000
+WH-GJ-0025,,24NOTXL9282D1ZP,"Plot 142, Industrial Area, Sanand",Sanand,Gujarat,382110,22.969792,72.408826,J6T-634-PPLK,85000
+WH-DL-0026,Northstar Logistics Narela DC 26,07NGNWY4319H1Z5,"Plot 71, Industrial Area, Narela",Narela,Delhi,110040,28.853516,77.123636,39J-F62-KCL4,85000
+WH-TS-0027,Northstar Logistics Shamshabad DC 27,36BGBRU3530F1ZF,"Plot 74, Industrial Area, Shamshabad",Shamshabad,Telangana,501218,17.202462,78.423612,422-PJM-86PM,60000
+WH-UP-0028,Northstar Logistics Greater Noida DC 28,09FYKMZ4665C1ZV,"Plot 221, Industrial Area, Greater Noida",Greater Noida,Uttar Pradesh,201306,17.202462,78.423612,422-PJM-86PM,120000
+WH-WB-0029,Northstar Logistics Dankuni DC 29,19JCJIL1296G1ZH,"Plot 170, Industrial Area, Dankuni",Dankuni,West Bengal,712311,22.670381,88.285228,2TF-F4J-FFLP,120000
+WH-KA-0030,Northstar Logistics Bengaluru DC 30,29BZUZC5351E1ZL,"Plot 21, Industrial Area, Bengaluru",Bengaluru,Karnataka,562123,13.115893,77.590226,4P3-FK8-F537,40000
+WH-KA-0031,Northstar Logistics Hosur Road DC 31,29KXVGD9434H1Z3,"Plot 168, Industrial Area, Hosur Road",Hosur Road,Karnataka,560100,12.822245,77.623156,ABC-123-XYZ0,25000
+WH-MH-0032,Northstar Logistics Bhiwandi DC 32,27EXGAC5268B1ZH,"Plot 114, Industrial Area, Bhiwandi",Bhiwandi,Maharashtra,421302,19.274606,73.093059,4F4-FKT-36P9,25000
+WH-MH-0033,Northstar Logistics Chakan DC 33,27AZKXQ1707D1Z0,"Plot 57, Industrial Area, Chakan",Chakan,Maharashtra,410501,18.737045,73.825768,4FP-C49-6337,40000
+WH-KA-12,Northstar Logistics Sriperumbudur DC 34,33YQNFL3914E1ZX,"Plot 178, Industrial Area, Sriperumbudur",Sriperumbudur,Tamil Nadu,602105,12.943690,79.910015,4T3-J5T-KMPJ,25000
+WH-GJ-0035,Northstar Logistics Sanand DC 35,24ANZNG8324B1Z2,"Plot 222, Industrial Area, Sanand",Sanand,Gujarat,382110,23.041550,72.335295,J6T-2T4-MJFP,85000
+WH-DL-0036,  northstar   logistics  messy   spacing  ,07ZIFFF3289G1Z5,"Plot 178, Industrial Area, Narela",bengaluru,Delhi,110040,28.857291,77.131773,39J-F62-8689,25000
+WH-TS-0037,Northstar Logistics Shamshabad DC 37,36QWLBR7240E1ZO,"Plot 125, Industrial Area, Shamshabad",Shamshabad,Telangana,501218,17.273999,78.380826,422-4TM-FCP8,60000
+WH-UP-0038,Northstar Logistics Greater Noida DC 38,09GAJIZ6300D1ZU,"Plot 18, Industrial Area, Greater Noida",Greater Noida,Uttar Pradesh,201306,28.428924,77.472535,39J-T43-TJL7,60000
+WH-WB-0039,Northstar Logistics Dankuni DC 39,19ICHRG1081B1ZQ,"Plot 136, Industrial Area, Dankuni",Dankuni,West Bengal,712311,22.651787,88.261396,2TF-FKM-CKP8,25000
+WH-KA-0040,Northstar Logistics Bengaluru DC 40,29KHQCY3543G1Z4,"Plot 167, Industrial Area, Bengaluru",Bengaluru,Karnataka,562123,13.067887,77.597680,4P3-FMJ-KJKL,85000
